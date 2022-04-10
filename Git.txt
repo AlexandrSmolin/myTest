@@ -1,0 +1,6 @@
+ls
+git clone https://github.com/AlexandrSmolin/myTest.git
+git status
+git add index.html (-A)
+git commit -m "Add index.html"
+git push
